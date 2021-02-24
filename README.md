@@ -16,3 +16,4 @@ for subscription service pricing.
  
 SKU: VNDNG-PS-PCM-AWS-001
 
+AWS SageMaker: https://aws.amazon.com/marketplace/pp/prodview-era2m774fm6y2
